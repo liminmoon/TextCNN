@@ -1,0 +1,7 @@
+
+model: /Users/limin/opt/anaconda3/envs/risk/limin/textCNN_demo/weight.pkl
+stopwords: /Users/limin/opt/anaconda3/envs/risk/limin/textCNN_demo/data/stopword.txt
+wordLabel: /Users/limin/opt/anaconda3/envs/risk/limin/textCNN_demo/data/wordLabel.txt
+wordLength: 30
+
+
