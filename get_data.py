@@ -16,8 +16,7 @@ StopWordFile = '/Users/limin/opt/anaconda3/envs/risk/limin/textCNN_demo/data/sto
 # MyTainJsonFile = '/Users/limin/opt/anaconda3/envs/risk/limin/textCNN_demo/data/my_validata.json'
 
 WantedClass = {'教育': 0, '健康': 0, '生活': 0, '娱乐': 0, '游戏': 0}
-# WantedNum = 5000
-WantedNum = 3000
+WantedNum = 5000
 numWantedAll = WantedNum * 5
 def main():
     Datas = open(TrainJsonFile , 'r', encoding='utf_8').readlines()
